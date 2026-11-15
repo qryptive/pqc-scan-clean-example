@@ -1,0 +1,3 @@
+# Clean example
+
+Draft.
