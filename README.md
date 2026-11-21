@@ -16,4 +16,4 @@ the artifact `qryptive-scan-report`.
 The scan runs in the GitHub runner and sends nothing to Qryptive. What is sent, and when:
 [qryptive.ai/privacy/scanner](https://qryptive.ai/privacy/scanner).
 
-Scanner image used for the recorded run: `ghcr.io/qryptive/pqc-scanner@sha256:3f78060af516743bdb36bbc0f78a7900bf9aa5a8e6956847894e2e1cbd440f89`
+Scanner image used for the recorded run: `ghcr.io/qryptive/pqc-scanner@sha256:f3dd8cdb4fa6393ecbbf1b2ff10f500be8eb9072a8538ea38009ffd1feedf760`
